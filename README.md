@@ -1,3 +1,18 @@
+HI FRIENDS!!
+So now that you've made it to this page, you're probably wondering how to edit the code you see. 
+What you do is you click the little blue title above, that says README.md
+That will bring you to a page that looks very similar to this one, except there's a small icon of a pencil on the right side of the box above where the code is. 
+Click that icon, and you can edit this page!
+When you're done, scroll all the way down to a box that says "Commit Changes".
+You don't have to title it anything different if you're going to commit directly to the master branch.
+(So that's for stuff like fixing HTML or something)
+However, for changes you aren't quite sure about, it would be better to create a new branch with a title and a description. 
+
+Don't panic! We got this!
+
+
+
+
 <!DOCTYPE HTML>
 <!--
 	Massively by HTML5 UP
