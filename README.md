@@ -13,15 +13,15 @@ Don't panic! We got this!
 
 
 
-<!DOCTYPE HTML>
 <!--
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
+<!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Massively by HTML5 UP</title>
+		<title>Restaurant Sustainability in New York City</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -34,32 +34,31 @@ Don't panic! We got this!
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>This is<br />
-						Massively</h1>
-						<p>A free, fully responsive HTML5 + CSS3 site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a><br />
-						and released for free under the <a href="https://html5up.net/license">Creative Commons license</a>.</p>
+						<h1>Restaurant sustainability in the USA and China.</h1>
+						<p>By Chandler Kidd, Ke Hou and Bethany Mann <br />
+					 <a href="http://www.thesra.org/">For more information click here</a>.</p>
 						<ul class="actions">
-							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">information</a></li>
 						</ul>
 					</div>
 
 				<!-- Header -->
 					<header id="header">
-						<a href="index.html" class="logo">Massively</a>
+						<a href="index.html" class="logo">Call 789-345-0000</a>
 					</header>
 
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="index.html">This is Massively</a></li>
-							<li><a href="generic.html">Generic Page</a></li>
-							<li><a href="elements.html">Elements Reference</a></li>
+							<li class="active"><a href="index.html">Restaurant Sustainability</a></li>
+							<li><a href="generic.html">Bio of Authors</a></li>
+							<li><a href="elements.html"></a>News</li>
 						</ul>
 						<ul class="icons">
-							<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://twitter.com/the_sra?lang=en" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/green/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/alifewortheating/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://github.com/bethanymann25" class="icon fa-github"><span class="label">GitHub</span></a></li>
 						</ul>
 					</nav>
 
@@ -69,16 +68,16 @@ Don't panic! We got this!
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<span class="date">April 25, 2017</span>
-									<h2><a href="#">And this is a<br />
-									massive headline</a></h2>
-									<p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
-									facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
-									amet nullam sed etiam veroeros.</p>
+									<span class="date">November 24, 2017</span>
+									<h2><a href="https://ecocult.com/the-24-best-sustainable-and-eco-friendly-restaurants-in-nyc/">24 Best Ecofriendly and sustainable<br />
+									restaurants in New York City</a></h2>
+									<p>Learn about the farm to table and other natural foods<br />
+									in New York City<br />
+									Blog provided by Ecoult.</p>
 								</header>
-								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
+								<a href="#" class="image main"><img src="images/abckitchen2.jpg" alt="abckitchen" /></a>
 								<ul class="actions">
-									<li><a href="#" class="button big">Full Story</a></li>
+									<li><a href="https://ecocult.com/the-24-best-sustainable-and-eco-friendly-restaurants-in-nyc/" class="button big">Full Story</a></li>
 								</ul>
 							</article>
 
@@ -86,14 +85,14 @@ Don't panic! We got this!
 							<section class="posts">
 								<article>
 									<header>
-										<span class="date">April 24, 2017</span>
-										<h2><a href="#">Sed magna<br />
-										ipsum faucibus</a></h2>
+										<span class="date">July 6, 2017</span>
+										<h2><a href="#">One Woman in New York City lives a zero <br />
+										waste lifestyle</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
+									<a href="#" class="image fit"><img src="images/laurensinger.jpg" alt="" /></a>
+									<p>Lauren Singer began living waste free in 2012. Here is her story.</p>
 									<ul class="actions">
-										<li><a href="#" class="button">Full Story</a></li>
+										<li><a href="http://www.cnn.com/2016/07/04/us/lauren-singer-zero-waste-blogger-plastic/index.html" class="button">Full Story</a></li>
 									</ul>
 								</article>
 								<article>
@@ -126,7 +125,7 @@ Don't panic! We got this!
 										<h2><a href="#">Tempus sed<br />
 										nulla imperdiet</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+									<a href="#" class="image fit"><img <img src="images/abckitchen2.jpg" alt="abckitchen" />src="images/pic05.jpg" alt="" /></a>
 									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
 									<ul class="actions">
 										<li><a href="#" class="button">Full Story</a></li>
